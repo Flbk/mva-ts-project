@@ -2,6 +2,9 @@
 MVA Time Series course mini-project.
 The goal of this project was to study KSVD algorithm.
 
+![Reconstruction of signals](reconstruction.png "Reconstruction of signals")
+
+
 ## Organization
 
 - `ksvd.pdf`is the original article.
